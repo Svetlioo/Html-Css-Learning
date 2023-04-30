@@ -169,6 +169,10 @@ h3 {
 .chair-icon {
 }
 
+.chair {
+  box-shadow: 0 20px 20px 5px grey;
+}
+
 .chair-price {
   display: flex;
   justify-content: space-between;
